@@ -1,0 +1,7 @@
+SELECT * FROM api_cake;
+SELECT * FROM api_customer;
+SELECT * FROM api_cakecustomization;
+SELECT * FROM api_cart;
+SELECT * FROM api_cartitem;
+SELECT * FROM api_order;
+SELECT * FROM api_order_items;
